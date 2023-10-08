@@ -1,0 +1,8 @@
+C:\Users\ADMIN\Desktop\projelerim\ilk_projem\ilk_projem\bin\Debug\ilk_projem.exe.config
+C:\Users\ADMIN\Desktop\projelerim\ilk_projem\ilk_projem\bin\Debug\ilk_projem.exe
+C:\Users\ADMIN\Desktop\projelerim\ilk_projem\ilk_projem\bin\Debug\ilk_projem.pdb
+C:\Users\ADMIN\Desktop\projelerim\ilk_projem\ilk_projem\obj\Debug\ilk_projem.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\projelerim\ilk_projem\ilk_projem\obj\Debug\ilk_projem.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Desktop\projelerim\ilk_projem\ilk_projem\obj\Debug\ilk_projem.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\projelerim\ilk_projem\ilk_projem\obj\Debug\ilk_projem.exe
+C:\Users\ADMIN\Desktop\projelerim\ilk_projem\ilk_projem\obj\Debug\ilk_projem.pdb
